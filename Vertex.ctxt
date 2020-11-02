@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Vertex
+comment0.text=\r\n\ Class\ Vertex\ comprises\ the\ destinations\ on\ the\ tree\ in\ the\ Driver\ Class.\r\n\r\n\ @author\ Alana\ Huitric\r\n\ @version\ 11/1/2020\r\n
+comment1.params=name
+comment1.target=Vertex(java.lang.String)
+comment1.text=\r\n\ Constructor\ of\ the\ vertex\ class\r\n\ \r\n\ @param\ name\ \ \ \ \ \ \ Name\ of\ vertex\r\n
+comment2.params=newVertex
+comment2.target=void\ setParent(Vertex)
+comment2.text=\r\n\ Sets\ the\ parent\ variable\ to\ the\ given\ Vertex.\r\n\ \r\n\ @param\ newVertex\ \ \ \ \ \ The\ Vertex\ that\ will\ be\ set\ as\ parent\r\n
+comment3.params=i
+comment3.target=void\ setShortestPath(int)
+comment3.text=\r\n\ Sets\ the\ shortestPath\ variable\ to\ a\ given\ integer\r\n\ \r\n\ @param\ i\ \ \ \ \ \ New\ shortestPath\ value\r\n
+comment4.params=
+comment4.target=Vertex\ getParent()
+comment4.text=\r\n\ Returns\ the\ parent\ of\ the\ Vertex\r\n\ \r\n\ @return\ Vertex\ \ \ \ \ \ \ \ parent\ of\ the\ current\ Vertex\r\n
+comment5.params=
+comment5.target=int\ getShortestPath()
+comment5.text=\r\n\ Returns\ the\ shortestPath\ of\ the\ Vertex\r\n\ \r\n\ @return\ shortestPath\ \ \ \ \ \ integer\ variable\r\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\r\n\ Returns\ the\ name\ of\ the\ Vertex\r\n\ \r\n\ @return\ name\ \ \ \ \ \ string\ variable\r\n
+comment7.params=
+comment7.target=void\ printVertex()
+comment7.text=\r\n\ Prints\ out\ Vertex\ and\ edge\ adjacencies\r\n
+numComments=8

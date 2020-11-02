@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\r\n\ Class\ Edge\ comprises\ the\ paths\ on\ the\ tree\ created\ in\ the\ Driver\r\n\ class,\ connecting\ the\ vertices\r\n\r\n\ @author\ Alana\ Huitric\r\n\ @version\ 11/1/2020\r\n
+comment1.params=connectedVertex\ cost
+comment1.target=Edge(Vertex,\ int)
+comment1.text=\r\n\ Constructor\ for\ Edge\ Class\r\n\ \r\n\ @param\ connectedVertex\ \ \ \ \ \ \ Vertex\ that\ the\ edge\ connects\r\n\ @param\ cost\ \ \ \ \ \ the\ weight\ of\ the\ edge\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\r\n\ Returns\ the\ weight\ of\ the\ edge\r\n\ \r\n\ @return\ int\ \ \ \ \ \ edge's\ weight\r\n
+comment3.params=
+comment3.target=Vertex\ getVertex()
+comment3.text=\r\n\ Returns\ the\ closest\ Vertex\r\n\ \r\n\ @return\ the\ target\ vertex\r\n
+comment4.params=
+comment4.target=void\ printEdge()
+comment4.text=\r\n\ Prints\ the\ edge\r\n
+numComments=5

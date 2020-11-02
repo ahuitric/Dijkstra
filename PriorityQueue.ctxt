@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment0.text=\r\n\ Class\ PriorityQueue\ extends\ the\ LinkedList\ class\ that\ inserts\r\n\ Nodes\ based\ on\ priority\r\n\r\n\ @author\ Alana\ Huitric\r\n\ @version\ 7/21/18\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ Returns\ if\ the\ priority\ queue\ is\ empty\r\n\ \r\n\ @return\ true\ if\ Priority\ is\ empty\ and\ false\ otherwise\r\n
+comment2.params=newData
+comment2.target=void\ enQueue(Vertex)
+comment2.text=\r\n\ Inserts\ nodes\ based\ on\ priority,\ shorter\ paths\ get\ priority\r\n\ in\ the\ Priority\ Queue\r\n\ \r\n\ @param\ newData\ \ \ \ \ \ \ Vertex\ data\ that\ the\ Node\ will\ contain\r\n
+comment3.params=
+comment3.target=Vertex\ deQueue()
+comment3.text=\r\n\ Removes\ the\ front\ of\ the\ Priority\ Queue\ after\ the\ head\r\n\ \r\n\ @return\ the\ removed\ Vertex\r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ Prints\ out\ the\ Priority\ Queue\r\n
+numComments=5

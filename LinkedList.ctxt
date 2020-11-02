@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\r\n\ Class\ LinkedList\ is\ the\ parent\ class\ to\ the\ Stack\ class\ and\ the\ \r\n\ PriorityQueue\ class.\r\n\ It\ contains\ the\ basic\ LinkedList\ methods\ that\ are\ adaptable\ to\ other\ \r\n\ uses.\ In\ this\ case\ LinkedList\ stores\ nodes\ containing\ vertices\ as\ \r\n\ their\ data.\r\n\ \r\n\r\n\ @author\ Alana\ Huitric\r\n\ @version\ 7/21/18\r\n
+comment1.params=newData
+comment1.target=void\ insertFront(Vertex)
+comment1.text=\r\n\ Inserts\ a\ node\ at\ the\ very\ front\ of\ the\ LinkedList\r\n\ @param\ newData\ \ \ The\ Vertex\ data\ that\ will\ be\ stored\r\n
+comment2.params=newData
+comment2.target=void\ insertEnd(Vertex)
+comment2.text=\r\n\ Inserts\ a\ node\ at\ the\ very\ end\ of\ the\ LinkedList\r\n\ @param\ newData\ \ \ The\ Vertex\ data\ that\ will\ be\ stored\r\n
+comment3.params=
+comment3.target=Vertex\ removeFront()
+comment3.text=\r\n\ Removes\ a\ node\ at\ the\ front\ of\ the\ LinkedList\r\n\ \r\n\ @return\ Vertex\ \ \ \ \ \ \ returns\ vertex\ that\ has\ been\ removed\r\n
+comment4.params=
+comment4.target=Vertex\ removeEnd()
+comment4.text=\r\n\ Removes\ a\ node\ at\ the\ end\ of\ the\ LinkedList\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ Vertex\ that\ has\ been\ removed\r\n
+comment5.params=dataStructure
+comment5.target=void\ print(java.lang.String)
+comment5.text=\r\n\ Prints\ out\ the\ LinkedList\ and\ the\ Vertex\ data\ in\ each\ Node\r\n\ \r\n\ @param\ dataStructure\ print(String\ dataStructure)\r\n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Class\ Node\ is\ the\ class\ used\ by\ LinkedList\ to\ hold\ data.\r\n\ @\ Version\ 7/21/2018\r\n
+comment1.params=d
+comment1.target=Node(Vertex)
+numComments=2
